@@ -1,0 +1,6 @@
+name: SexPlugin
+version: '${project.version}'
+main: org.yawaflua.sexplugin.Sex
+api-version: '1.20'
+commands:
+  sex:
